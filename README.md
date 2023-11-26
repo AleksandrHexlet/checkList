@@ -1,6 +1,14 @@
 # Getting Started with Create React App
+# install dependencies
+$ npm install
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  start  at localhost:3000
+$ npm run start
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
 
 ## Available Scripts
 
